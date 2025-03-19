@@ -30,13 +30,13 @@ oneStep_abcd_analysis(
 ```
 
 ## Optional
-- data_matrix: Data frame containing the data to be analyzed.
-- y_lab: Label for the y-axis.
-- x_lab: Label for the x-axis.
-- theme_params: ggplot2 theme parameters.
-- title: Title of the plot.
-- custom_theme: Custom ggplot2 theme settings.
-- fill_color: Color scheme for the plot.
+- **data_matrix**: Data frame containing the data to be analyzed.
+- **y_lab**: Label for the y-axis.
+- **x_lab**: Label for the x-axis.
+- **theme_params**: ggplot2 theme parameters.
+- **title**: Title of the plot.
+- **custom_theme**: Custom ggplot2 theme settings.
+- **fill_color**: Color scheme for the plot.
 
 ## Example
 ```R
@@ -95,7 +95,7 @@ data(example_data)
 ```
 ```R
 oneStep_abcd_analysis(example_data, y_lab = "Weight of a thousand seeds", x_lab = NULL,
-                      fill_color = scale_fill_manual(values = c("red","green","#c8c9c9", "#7570b3")),
+                      #fill_color = scale_fill_manual(values = c("red","green","#c8c9c9", "#7570b3")),
                       theme_params = theme_bw())
 ```
 ![](https://github.com/kanghuadu/OneStepabcd/blob/main/data/Rplot.jpeg)
