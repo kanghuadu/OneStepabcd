@@ -1,0 +1,16 @@
+Package: OneStepabcd
+Title: One Step ANOVA and Plotting
+Version: 0.1.1
+Author: Kanghua Du
+Authors@R: 
+    person("Kanghua", "Du", , "kanghuadu@outlook.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-2028-0882"))
+Description: This package provides a function for performing one-way ANOVA and plotting the results with custom themes.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: ggplot2, dplyr, reshape2, agricolae
+LazyData: true
+Maintainer: Kanghua Du <kanghuadu@outlook.com>
+Built: R 4.3.2; ; 2024-06-09 09:43:45 UTC; windows
