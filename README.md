@@ -46,4 +46,4 @@ oneStep_abcd_analysis(example_data, y_lab = "Weight of a thousand seeds", x_lab 
                       theme_params = theme_bw())
 ```
 ![](https://github.com/kanghuadu/OneStepabcd/blob/main/data/Rplot.jpeg)
-<img src="https://github.com/kanghuadu/OneStepabcd/blob/main/data/Rplot.jpeg", width = "250">
+<img src="https://github.com/kanghuadu/OneStepabcd/blob/main/data/Rplot.jpeg", width="250">
