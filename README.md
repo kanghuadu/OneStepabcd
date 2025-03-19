@@ -1,7 +1,7 @@
 # [OneStepabcd](https://github.com/kanghuadu/OneStepabcd)
 [![DuLab](https://img.shields.io/badge/DuLab-github-blue?logo=github)](https://github.com/kanghuadu)
 
-# Title One Step ANOVA and Plot
+# One Step ANOVA and Plot
 This function performs one-way ANOVA and plots the results with custom themes.
 
 ## Install 
