@@ -45,3 +45,4 @@ oneStep_abcd_analysis(example_data, y_lab = "Weight of a thousand seeds", x_lab 
                       fill_color = scale_fill_manual(values = c("red","green","#c8c9c9", "#7570b3")),
                       theme_params = theme_bw())
 ```
+![](https://github.com/kanghuadu/OneStepabcd/blob/main/data/Rplot.jpeg)
